@@ -21,9 +21,9 @@
     "eval:source-cards": "bun run evals/run-source-cards.ts"
   },
   "dependencies": {
-    "@ai-sdk/anthropic": "^4.0.87",
-    "@ai-sdk/gateway": "^4.0.125",
-    "@ai-sdk/google": "^4.0.104",
+    "@ai-sdk/anthropic": "^4.0.92",
+    "@ai-sdk/gateway": "^4.0.130",
+    "@ai-sdk/google": "^4.0.108",
     "@ai-sdk/openai": "^4.0.101",
     "@ai-sdk/openai-compatible": "^3.0.77",
     "@ai-sdk/react": "^4.0.156",
